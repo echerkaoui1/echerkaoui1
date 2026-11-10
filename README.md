@@ -1,18 +1,38 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Salah-Eddine Ech-Cherkaoui — Software Engineer" width="100%">
+  <img src="assets/header-light.svg" alt="Salah-Eddine Ech-Cherkaoui, Software Engineer" width="100%">
 </picture>
 
-<br>
+## Overview
 
-I build enterprise web applications for industrial environments. As an **MES Engineer at
-Gotion Power Morocco**, I design and deliver the software around production on a battery
-manufacturing site: shop-floor request intake, workforce attendance, process monitoring
-and document workflows. Before that, I was a **Full Stack Developer Intern at Yazaki
-Morocco**, where I built the site's occupational-health management application.
+I am a software engineer specialised in enterprise applications for manufacturing.
 
-I hold a State Engineer degree in Computer Science and Networks (MIAGE track) from
-**EMSI — École Marocaine des Sciences de l'Ingénieur**, class of 2026.
+As an **MES Engineer at Gotion Power Morocco**, a battery manufacturing site, I build the
+business applications that sit around production. I take each one end to end: requirements
+and process analysis, data model, REST API, web interface, and containerised deployment.
+
+Before Gotion, I was a **Full Stack Developer Intern at Yazaki Morocco**, where I built the
+occupational-health management application that tracks employee medical records,
+visits, workplace accidents and medication stock.
+
+- **Role:** MES Engineer, Gotion Power Morocco
+- **Focus:** enterprise applications, Manufacturing Execution Systems, industrial
+  digitalization, ERP integration, software architecture
+- **Core stack:** Java, Spring Boot, Angular, PostgreSQL, Docker
+- **Education:** State Engineer degree in Computer Science and Networks, MIAGE track,
+  EMSI (École Marocaine des Sciences de l'Ingénieur), 2026
+- **Location:** Morocco
+
+## What I deliver
+
+- **Shop-floor and HR processes as web workflows.** Requests, attendance, overtime and
+  absences captured in one place, with roles, approvals, lifecycle tracking and history.
+- **Visibility on process data.** KPI and SPC dashboards with control limits and trends
+  for production engineers.
+- **Modernisation of existing applications.** An ongoing migration of a Laravel / MySQL application
+  to Spring Boot, Angular and PostgreSQL.
+- **Applications for multilingual teams.** Interfaces in French, English, Arabic and
+  Chinese, including right-to-left layouts.
 
 ## How I work
 
@@ -29,7 +49,7 @@ I hold a State Engineer degree in Computer Science and Networks (MIAGE track) fr
 
 These are internal applications, so their source code is not public.
 
-**Gotion Power Morocco — MES Engineer**
+**Gotion Power Morocco · MES Engineer**
 
 | Application | What it does | Stack |
 |---|---|---|
@@ -38,7 +58,7 @@ These are internal applications, so their source code is not public.
 | Coating Process Dashboard | SPC monitoring of electrode coating (surface density, control limits, side-to-side comparison), currently driven by a configurable process simulator ahead of MES integration. | Spring Boot 3 · Angular · ECharts · MySQL |
 | Document Translation Platform | Translates DOCX and XLSX documents between Arabic, French, English and Chinese on self-hosted models, preserving layout, enforcing a business glossary and protecting numbers and codes. | Spring Boot 4 · Angular · Python / FastAPI · PostgreSQL |
 
-**Yazaki Morocco — Full Stack Developer Intern**
+**Yazaki Morocco · Full Stack Developer Intern**
 
 | Application | What it does | Stack |
 |---|---|---|
@@ -49,7 +69,7 @@ These are internal applications, so their source code is not public.
 | Project | Description |
 |---|---|
 | [**Smart Clinique**](https://github.com/echerkaoui1/Application-De-Gestion-Hospitaliere) | Hospital management back end as Spring Boot microservices: Config Server, Eureka, Gateway, OpenFeign, Kafka and WebSocket notifications, one database per service. |
-| [**DELTIXIA**](https://github.com/echerkaoui1/deltixia) | Website of DELTIXIA, my digitalization studio — static, four languages including right-to-left Arabic, custom i18n engine. Live at [deltixia.com](https://deltixia.com). |
+| [**DELTIXIA**](https://github.com/echerkaoui1/deltixia) | Website of DELTIXIA, my digitalization studio. Static, four languages including right-to-left Arabic, custom i18n engine. Live at [deltixia.com](https://deltixia.com). |
 
 ## Technologies
 
@@ -84,11 +104,6 @@ These are internal applications, so their source code is not public.
 ![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-24292F?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Agile](https://img.shields.io/badge/Agile-24292F?style=flat-square)
-
-## Interests
-
-Manufacturing Execution Systems · industrial digitalization · ERP integration ·
-software architecture · enterprise application development
 
 ## Contact
 
