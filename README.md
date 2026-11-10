@@ -7,15 +7,15 @@
 
 I am a software engineer specialised in enterprise applications for manufacturing.
 
-As an **MES Engineer at Gotion Power Morocco**, a battery manufacturing site, I build the
-business applications that sit around production. I take each one end to end: requirements
+As an **MES Engineer** in industrial manufacturing, I build the business applications
+that sit around production. I take each one end to end: requirements
 and process analysis, data model, REST API, web interface, and containerised deployment.
 
-Before Gotion, I was a **Full Stack Developer Intern at Yazaki Morocco**, where I built the
-occupational-health management application that tracks employee medical records,
+Previously, as a **Full Stack Developer Intern**, I built an occupational-health
+management application that tracks employee medical records,
 visits, workplace accidents and medication stock.
 
-- **Role:** MES Engineer, Gotion Power Morocco
+- **Role:** MES Engineer
 - **Focus:** enterprise applications, Manufacturing Execution Systems, industrial
   digitalization, ERP integration, software architecture
 - **Core stack:** Java, Spring Boot, Angular, PostgreSQL, Docker
@@ -49,27 +49,27 @@ visits, workplace accidents and medication stock.
 
 These are internal applications, so their source code is not public.
 
-**Gotion Power Morocco · MES Engineer**
+**Current role · MES Engineer**
 
 | Application | What it does | Stack |
 |---|---|---|
 | MES Demand Hub | Shop-floor terminals capture MES improvement requests; requests are tracked through their lifecycle and summarised in a monthly report. Four languages. | Spring Boot 4 · Thymeleaf · PostgreSQL · Docker |
 | Team Attendance & Overtime | Daily attendance, shifts, overtime, absences and sick leave, with approval workflows, period closure and reporting. French, English and Chinese. | Spring Boot 3.5 · Angular · PrimeNG · PostgreSQL |
-| Coating Process Dashboard | SPC monitoring of electrode coating (surface density, control limits, side-to-side comparison), currently driven by a configurable process simulator ahead of MES integration. | Spring Boot 3 · Angular · ECharts · MySQL |
+| Coating Process Dashboard | SPC monitoring of a coating process (surface density, control limits, side-to-side comparison), currently driven by a configurable process simulator ahead of MES integration. | Spring Boot 3 · Angular · ECharts · MySQL |
 | Document Translation Platform | Translates DOCX and XLSX documents between Arabic, French, English and Chinese on self-hosted models, preserving layout, enforcing a business glossary and protecting numbers and codes. | Spring Boot 4 · Angular · Python / FastAPI · PostgreSQL |
 
-**Yazaki Morocco · Full Stack Developer Intern**
+**Internship · Full Stack Developer**
 
 | Application | What it does | Stack |
 |---|---|---|
 | Occupational Health Management | Employee medical records, medical visits, workplace accidents, workstation adaptations, medication stock and role-based dashboards for doctors, nurses and HR, with an audit log. | Laravel 10 · PHP 8 · Blade · MySQL |
 
-## Public projects
+## Personal and academic projects
 
 | Project | Description |
 |---|---|
-| [**Smart Clinique**](https://github.com/echerkaoui1/Application-De-Gestion-Hospitaliere) | Hospital management back end as Spring Boot microservices: Config Server, Eureka, Gateway, OpenFeign, Kafka and WebSocket notifications, one database per service. |
-| [**DELTIXIA**](https://github.com/echerkaoui1/deltixia) | Website of DELTIXIA, my digitalization studio. Static, four languages including right-to-left Arabic, custom i18n engine. Live at [deltixia.com](https://deltixia.com). |
+| **Smart Clinique** | Hospital management back end as Spring Boot microservices: Config Server, Eureka, Gateway, OpenFeign, Kafka and WebSocket notifications, one database per service. |
+| **DELTIXIA** | Website of DELTIXIA, my digitalization studio. Static, four languages including right-to-left Arabic, custom i18n engine. Live at [deltixia.com](https://deltixia.com). |
 
 ## Technologies
 
@@ -107,6 +107,6 @@ These are internal applications, so their source code is not public.
 
 ## Contact
 
-[salah.eddinec186@gmail.com](mailto:salah.eddinec186@gmail.com) ·
+[echerkaoui.it@gmail.com](mailto:echerkaoui.it@gmail.com) ·
 [Portfolio](https://portfolio-wine-sigma-36.vercel.app) ·
 [deltixia.com](https://deltixia.com)
